@@ -1,0 +1,15 @@
+C:\doczilla\ConcatTXT\ConcatTXT\bin\Debug\netcoreapp3.1\ConcatTXT.exe
+C:\doczilla\ConcatTXT\ConcatTXT\bin\Debug\netcoreapp3.1\ConcatTXT.deps.json
+C:\doczilla\ConcatTXT\ConcatTXT\bin\Debug\netcoreapp3.1\ConcatTXT.runtimeconfig.json
+C:\doczilla\ConcatTXT\ConcatTXT\bin\Debug\netcoreapp3.1\ConcatTXT.runtimeconfig.dev.json
+C:\doczilla\ConcatTXT\ConcatTXT\bin\Debug\netcoreapp3.1\ConcatTXT.dll
+C:\doczilla\ConcatTXT\ConcatTXT\bin\Debug\netcoreapp3.1\ConcatTXT.pdb
+C:\doczilla\ConcatTXT\ConcatTXT\obj\Debug\netcoreapp3.1\ConcatTXT.Form1.resources
+C:\doczilla\ConcatTXT\ConcatTXT\obj\Debug\netcoreapp3.1\ConcatTXT.csproj.GenerateResource.cache
+C:\doczilla\ConcatTXT\ConcatTXT\obj\Debug\netcoreapp3.1\ConcatTXT.GeneratedMSBuildEditorConfig.editorconfig
+C:\doczilla\ConcatTXT\ConcatTXT\obj\Debug\netcoreapp3.1\ConcatTXT.AssemblyInfoInputs.cache
+C:\doczilla\ConcatTXT\ConcatTXT\obj\Debug\netcoreapp3.1\ConcatTXT.AssemblyInfo.cs
+C:\doczilla\ConcatTXT\ConcatTXT\obj\Debug\netcoreapp3.1\ConcatTXT.csproj.CoreCompileInputs.cache
+C:\doczilla\ConcatTXT\ConcatTXT\obj\Debug\netcoreapp3.1\ConcatTXT.dll
+C:\doczilla\ConcatTXT\ConcatTXT\obj\Debug\netcoreapp3.1\ConcatTXT.pdb
+C:\doczilla\ConcatTXT\ConcatTXT\obj\Debug\netcoreapp3.1\ConcatTXT.genruntimeconfig.cache
