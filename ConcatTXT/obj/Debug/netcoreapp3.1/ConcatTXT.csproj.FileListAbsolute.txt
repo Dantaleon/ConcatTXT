@@ -13,3 +13,4 @@ C:\doczilla\ConcatTXT\ConcatTXT\obj\Debug\netcoreapp3.1\ConcatTXT.csproj.CoreCom
 C:\doczilla\ConcatTXT\ConcatTXT\obj\Debug\netcoreapp3.1\ConcatTXT.dll
 C:\doczilla\ConcatTXT\ConcatTXT\obj\Debug\netcoreapp3.1\ConcatTXT.pdb
 C:\doczilla\ConcatTXT\ConcatTXT\obj\Debug\netcoreapp3.1\ConcatTXT.genruntimeconfig.cache
+C:\doczilla\ConcatTXT\ConcatTXT\obj\Debug\netcoreapp3.1\ConcatTXT.csproj.AssemblyReference.cache
