@@ -179,6 +179,7 @@ namespace ConcatTXT
 
             rootPath = "";
             rootPathOut = "";
+            isCycle = false;
             listPaths.Clear();
 
             textBoxPath.Text = "";
